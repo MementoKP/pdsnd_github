@@ -1,5 +1,3 @@
-Add GIT tutorial on README.md file
-
 ### Date created
 This project was created on September  7th, 2020
 
