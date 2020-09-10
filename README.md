@@ -1,3 +1,5 @@
+Add GIT tutorial on README.md file
+
 ### Date created
 This project was created on September  7th, 2020
 
@@ -24,3 +26,4 @@ Python operators --> https://www.programiz.com/python-programming/operators
 Syntax scripting --> https://docs.python.org/3.6/library/string.html#format-string-syntax
 Numpy Contents --> https://docs.scipy.org/doc/numpy-1.13.0/contents.html
 Git web --> https://git-scm.com
+Git tutorials --> https://www.atlassian.com/git/tutorials/setting-up-a-repository
