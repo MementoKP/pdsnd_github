@@ -11,10 +11,10 @@ The experience contributes with descriptive stadistics
 
 
 ### Files used
-bikeshare.py
-chicago.csv
-new_york_city.csv
-washington.csv
+\nbikeshare.py\n
+\nchicago.csv\n
+\nnew_york_city.csv\n
+\nwashington.csv\n
 
 ### Credits
 
