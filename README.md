@@ -7,14 +7,15 @@ Explore US Bikeshare Data
 ### Description
 
 For this project Python is used to create a filters whose is going to be useful to explore the bike sharing systems in 3 big cities in U.S.A like Chicago , New York City and / or Washington. Is an experience where the code takes the inputs given from the user in a interactive way. The outscore will depends of the input given from the user and it will import the data from the csv files.
-The experience contributes with descriptive stadistics
+The experience contributes with descriptive stadistics.
+The stadistics should solve the  most common month , day and hour for the selection. The most common start, end and combination stations. The total travel duration. The mean travel duration. The gender and type of users counter. The earliest year birthday, the most recent year birth, the most common year birhtday.
 
 
 ### Files used
-\nbikeshare.py\n
-\nchicago.csv\n
-\nnew_york_city.csv\n
-\nwashington.csv\n
+bikeshare.py
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
 
